@@ -1,4 +1,4 @@
-# Grupo jovens com pinta
+# Meninas super poderosas
 
 **Curso:** LETI
 
