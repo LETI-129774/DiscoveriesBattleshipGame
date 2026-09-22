@@ -10,6 +10,8 @@
 | LETI | 129774 | Teresa Cunha |
 | LETI | 129773 | Natalia Hortense |
 
+---
+
 ## Tipos de Navios:
 
 | Batalha Naval | Descobrimentos | English | Dimensão | Quantidade |
@@ -20,7 +22,7 @@
 | Navio de 2 canhões | **Caravela** | **Caravel** |2 | 3 |
 | Submarino | **Barca** | **Barge** |1 | 4 |
 
-
+---
 
 [Porta-aviões](https://pt.wikipedia.org/wiki/Porta-avi%C3%B5es)
 ------
@@ -54,6 +56,12 @@
 ------
 ![alt text](https://github.com/user-attachments/assets/e67847d2-fd5d-406f-ae9b-6ae629ce15ea)
 
+---
 
 ## Regras
 ------
+Depois dos navios terem sido posicionados:
+1. Cada jogador, à vez, “atira três tiros” sobre a frota adversária, referindo as respectivas coordenadas dos tiros (linha, coluna).
+2. O adversário deve referir o resultado dessa rajada de três tiros, informando se acertou em um ou mais navios e de que tipo, bem como os tiros na água!
+3. Cada jogador vai registando na grelha do oponente os resultados dos seus tiros, identificando os navios afundados.
+4. Ganha o jogo o primeiro que atingir todos os navios da frota adversária.
