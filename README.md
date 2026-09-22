@@ -53,3 +53,7 @@
 [Barca](https://pt.wikipedia.org/wiki/Barca)
 ------
 ![alt text](https://github.com/user-attachments/assets/e67847d2-fd5d-406f-ae9b-6ae629ce15ea)
+
+
+## Regras
+------
