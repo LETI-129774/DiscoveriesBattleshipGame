@@ -21,28 +21,29 @@
 | Submarino | **Barca** | **Barge** |1 | 4 |
 
 
-#### Porta-aviões
-##[Porta-aviões](https://pt.wikipedia.org/wiki/Porta-avi%C3%B5es)
 
-#### Galeão
+[Porta-aviões](https://pt.wikipedia.org/wiki/Porta-avi%C3%B5es)
+------
+
+[Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
+------
 ![alt text](https://github.com/user-attachments/assets/a7066d9d-bbc7-473b-a9c2-1a8ab06e825e)
-##[Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
 
-#### Navio
-##[Navio](https://pt.wikipedia.org/wiki/Navio)
+[Navio](https://pt.wikipedia.org/wiki/Navio)
+------
 
-#### Fragata
-##[Fagata](https://pt.wikipedia.org/wiki/Fragata)
 
-#### Nau
-##[Nau](https://pt.wikipedia.org/wiki/Nau)
+[Fagata](https://pt.wikipedia.org/wiki/Fragata)
+------
 
-#### Caravela
-##[Caravela](https://pt.wikipedia.org/wiki/Caravela)
+[Nau](https://pt.wikipedia.org/wiki/Nau)
+------
 
-#### Submarino
-##[Submarino](https://pt.wikipedia.org/wiki/Submarino)
+[Caravela](https://pt.wikipedia.org/wiki/Caravela)
+------
 
-#### Barca
-##[Barca](https://pt.wikipedia.org/wiki/Barca)
+[Submarino](https://pt.wikipedia.org/wiki/Submarino)
+------
 
+[Barca](https://pt.wikipedia.org/wiki/Barca)
+------
