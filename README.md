@@ -22,10 +22,10 @@
 
 
 
-### Porta-aviões
+#### Porta-aviões
 
 
-### Galeão
-![alt text](https://github.com/user-attachments/assets/2745046a-b904-45af-a7eb-489d022d4378")
+#### Galeão
+![alt text](<img width="500" height="173" alt="image" src="https://github.com/user-attachments/assets/a7066d9d-bbc7-473b-a9c2-1a8ab06e825e" />)
 
 [Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
