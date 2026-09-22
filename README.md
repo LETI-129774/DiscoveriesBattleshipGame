@@ -24,6 +24,7 @@
 
 [Porta-aviões](https://pt.wikipedia.org/wiki/Porta-avi%C3%B5es)
 ------
+![alt text](https://github.com/user-attachments/assets/a0c0bf75-f663-4e6d-8b95-e6bbf4b4aaf6)
 
 [Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
 ------
@@ -31,19 +32,24 @@
 
 [Navio](https://pt.wikipedia.org/wiki/Navio)
 ------
-
+![alt text](https://github.com/user-attachments/assets/602a95c5-93e4-49f2-87de-9da4fc8da4e3)
 
 [Fagata](https://pt.wikipedia.org/wiki/Fragata)
 ------
+![alt text](https://github.com/user-attachments/assets/3d9de58d-e636-40fa-9adc-a9f3d2b76875)
 
 [Nau](https://pt.wikipedia.org/wiki/Nau)
 ------
+![alt text](https://github.com/user-attachments/assets/425cbd6f-7e45-4477-a845-89833d8a3f6d)
 
 [Caravela](https://pt.wikipedia.org/wiki/Caravela)
 ------
+![alt text](https://github.com/user-attachments/assets/033562e6-304f-42a4-8593-66ee115344b6)
 
 [Submarino](https://pt.wikipedia.org/wiki/Submarino)
 ------
+![alt text](https://github.com/user-attachments/assets/4bedd426-4b12-466c-985b-74c6f8631085)
 
 [Barca](https://pt.wikipedia.org/wiki/Barca)
 ------
+![alt text](https://github.com/user-attachments/assets/e67847d2-fd5d-406f-ae9b-6ae629ce15ea)
