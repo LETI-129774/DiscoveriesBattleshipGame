@@ -19,13 +19,3 @@
 | Navio de 3 canhões | **Nau** | **Carrack** |3 | 2 |
 | Navio de 2 canhões | **Caravela** | **Caravel** |2 | 3 |
 | Submarino | **Barca** | **Barge** |1 | 4 |
-
-
-
-#### Porta-aviões
-
-
-#### Galeão
-![alt text](<img width="500" height="173" alt="image" src="https://github.com/user-attachments/assets/a7066d9d-bbc7-473b-a9c2-1a8ab06e825e" />)
-
-[Galeão](https://pt.wikipedia.org/wiki/Gale%C3%A3o)
