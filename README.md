@@ -65,3 +65,11 @@ Depois dos navios terem sido posicionados:
 2. O adversário deve referir o resultado dessa rajada de três tiros, informando se acertou em um ou mais navios e de que tipo, bem como os tiros na água!
 3. Cada jogador vai registando na grelha do oponente os resultados dos seus tiros, identificando os navios afundados.
 4. Ganha o jogo o primeiro que atingir todos os navios da frota adversária.
+
+---
+
+## Rerpostas às questões
+------
+E.3.
+
+E.6
