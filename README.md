@@ -72,4 +72,6 @@ Depois dos navios terem sido posicionados:
 ------
 E.3.
 
-E.6
+E.6 Para escolher uma user story para mim propria na aba dos issues do GitHub escolho o issue/user story que quero fazer clico nela e escolho a opção de "assing" e escolho me a mim
+Para mostrar que essa user story ja foi implementada abrimos o issue e clicamos onde diz "close as completed"
+Para mostrar que Product owner desistiu dessa user story abrimos esse issue e clicamos na seta ao lado de onde diz "close as completed" para abrir outras opções e escolhemos a que diz "close as not planned"
