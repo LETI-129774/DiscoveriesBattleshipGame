@@ -24,7 +24,6 @@ public interface IFleet {
 
     /**
      * Obtém a lista de todos os navios que compõem a frota.
-     *
      * @return Uma lista contendo todos os objetos IShip da frota.
      */
     List<IShip> getShips();
@@ -33,7 +32,6 @@ public interface IFleet {
      * Tenta adicionar um novo navio à frota.
      * O navio só deve ser adicionado se não colidir com outros navios já existentes
      * e se respeitar os limites do tabuleiro.
-     *
      * @param s O navio (IShip) a ser adicionado.
      * @return true se o navio foi adicionado com sucesso, false caso contrário.
      */
@@ -42,7 +40,6 @@ public interface IFleet {
     /**
      * Obtém uma lista de navios pertencentes a uma categoria específica.
      * Útil para procurar todos os navios de um determinado tipo (ex: "Galeao", "Fragata").
-     *
      * @param category A categoria/tipo de navio a procurar.
      * @return Uma lista de navios que correspondem à categoria fornecida.
      */
@@ -50,14 +47,12 @@ public interface IFleet {
 
     /**
      * Obtém uma lista com todos os navios da frota que ainda não foram totalmente afundados.
-     *
      * @return Uma lista de navios (IShip) que ainda estão a flutuar.
      */
     List<IShip> getFloatingShips();
 
     /**
      * Verifica se existe algum navio da frota numa determinada posição do tabuleiro.
-     *
      * @param pos A coordenada a ser verificada.
      * @return O navio (IShip) que se encontra nessa posição, ou null se a posição estiver vazia (água).
      */
