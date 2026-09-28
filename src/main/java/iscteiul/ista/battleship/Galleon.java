@@ -47,9 +47,7 @@ public class Galleon extends Ship {
     }
 
     /*
-     * (non-Javadoc)
      * Obtém o tamanho do Galeão em termos de quadrículas ocupadas.
-     *
      * @return     O tamanho fixo do Galeão, que é 5.
      * @see battleship.Ship#getSize()
      */
@@ -59,7 +57,6 @@ public class Galleon extends Ship {
     }
      /**
      * Preenche as posições ocupadas pelo Galeão quando orientado para Norte.
-     * 
      * @param pos A posição inicial de referência.
      */
     private void fillNorth(IPosition pos) {
@@ -72,7 +69,6 @@ public class Galleon extends Ship {
 
     /**
      * Preenche as posições ocupadas pelo Galeão quando orientado para Sul.
-     * 
      * @param pos A posição inicial de referência.
      */
     private void fillSouth(IPosition pos) {
@@ -86,7 +82,6 @@ public class Galleon extends Ship {
 
     /**
      * Preenche as posições ocupadas pelo Galeão quando orientado para Este.
-     * 
      * @param pos A posição inicial de referência.
      */
     private void fillEast(IPosition pos) {
@@ -99,7 +94,6 @@ public class Galleon extends Ship {
 
     /**
      * Preenche as posições ocupadas pelo Galeão quando orientado para Oeste.
-     * 
      * @param pos A posição inicial de referência.
      */
     private void fillWest(IPosition pos) {
