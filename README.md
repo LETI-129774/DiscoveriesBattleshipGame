@@ -70,6 +70,13 @@ Depois dos navios terem sido posicionados:
 
 ## Rerpostas às questões
 ------
-E.3.
+E.3. Enquanto Product Owner, defino o Product Backlog inicial com as seguintes user stories:   
+-Como jogador, quero poder posicionar a minha frota na grelha para preparar o início do jogo.   
+-Como jogador, quero poder disparar sobre as coordenadas do tabuleiro do adversário para tentar afundar os seus navios.   
+-Como jogador, quero visualizar o meu tabuleiro e o estado atualizado do tabuleiro do oponente para planear a minha estratégia.   
+-Como jogador, quero que as minhas jogadas fiquem registadas numa base de dados (formato JSON) para manter o histórico da partida.   
 
-E.6
+
+E.6 Para escolher uma user story para mim própria na aba dos issues do GitHub escolho o issue/user story que quero fazer clico nela e escolho a opção de "assing" e escolho me a mim
+Para mostrar que essa user story ja foi implementada abrimos o issue e clicamos onde diz "close as completed"
+Para mostrar que Product owner desistiu dessa user story abrimos esse issue e clicamos na seta ao lado de onde diz "close as completed" para abrir outras opções e escolhemos a que diz "close as not planned"
