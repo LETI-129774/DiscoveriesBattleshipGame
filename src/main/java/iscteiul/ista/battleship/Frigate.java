@@ -1,7 +1,6 @@
 /**
 * Representa uma Fragata no jogo da Batalha Naval (versão da época dos Descobrimentos).
 * A Fragata é um navio que ocupa 4 quadrículas na grelha do tabuleiro.
-* 
 * @author Laura número 129778
 * @version 1.0
  */
