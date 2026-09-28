@@ -69,9 +69,7 @@ public class Game implements IGame {
 
     /*
      * Obtém a lista de todas as posições onde foram efetuados tiros válidos.
-     *
      * @return Uma lista de objetos IPosition representando os tiros realizados.
-     *
      * @see battleship.IGame#getShots()
      */
     @Override
@@ -81,9 +79,7 @@ public class Game implements IGame {
 
     /*
      * Obtém o número total de tiros repetidos (disparados para coordenadas já atacadas).
-     *
      * @return O contador de tiros repetidos.
-     *
      * @see battleship.IGame#getRepeatedShots()
      */
     @Override
@@ -93,9 +89,7 @@ public class Game implements IGame {
 
     /*
      * Obtém o número total de tiros inválidos (fora dos limites do tabuleiro).
-     *
      * @return O contador de tiros inválidos.
-     *
      * @see battleship.IGame#getInvalidShots()
      */
     @Override
@@ -105,9 +99,7 @@ public class Game implements IGame {
 
     /*
      * Obtém o número total de tiros que atingiram com sucesso uma parte de um navio.
-     *
      * @return O contador de tiros certeiros.
-     *
      * @see battleship.IGame#getHits()
      */
     @Override
@@ -117,9 +109,7 @@ public class Game implements IGame {
 
     /*
      * Obtém o número total de navios que já foram totalmente afundados.
-     *
      * @return O contador de navios afundados.
-     *
      * @see battleship.IGame#getSunkShips()
      */
     @Override
@@ -129,9 +119,7 @@ public class Game implements IGame {
 
     /*
      * Obtém o número de navios que ainda estão a flutuar (não foram afundados).
-     *
      * @return A quantidade de navios restantes na frota.
-     *
      * @see battleship.IGame#getRemainingShips()
      */
     @Override
@@ -142,7 +130,6 @@ public class Game implements IGame {
 
     /**
      * Valida se as coordenadas de um tiro estão dentro dos limites permitidos do tabuleiro.
-     * 
      * @param pos A posição do tiro a validar.
      * @return true se o tiro for dentro dos limites, false caso contrário.
      */
@@ -154,7 +141,6 @@ public class Game implements IGame {
 
     /**
      * Verifica se um tiro já foi efetuado na mesma posição anteriormente.
-     * 
      * @param pos A posição a verificar.
      * @return true se o tiro já constar no histórico, false caso seja inédito.
      */
@@ -169,7 +155,6 @@ public class Game implements IGame {
     /**
      * Imprime na consola uma representação visual do tabuleiro com um marcador específico.
      * Oceano é representado por '.' e as posições fornecidas recebem o marcador.
-     * 
      * @param positions A lista de posições a marcar no tabuleiro.
      * @param marker O carácter a usar para desenhar as posições indicadas.
      */
