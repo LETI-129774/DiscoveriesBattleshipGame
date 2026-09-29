@@ -1,5 +1,7 @@
 # Meninas super poderosas
 
+**Nota:** Repositório criado pela aluna 129774 em vez de 129773 (menor número).
+
 **Curso:** LETI
 
 ## Elementos do Grupo
