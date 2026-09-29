@@ -1,5 +1,6 @@
 /**
  * Representa um Galeão no jogo da Batalha Naval (versão da época dos Descobrimentos).
+ *
  * O Galeão é o navio de maior dimensão, correspondente ao Porta-aviões tradicional, e ocupa 5 quadrículas no tabuleiro.
  * 
  * @author Laura 129778
