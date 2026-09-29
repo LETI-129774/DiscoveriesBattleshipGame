@@ -1,11 +1,11 @@
-/**
-* Representa uma Fragata no jogo da Batalha Naval (versão da época dos Descobrimentos).
-* A Fragata é um navio que ocupa 4 quadrículas na grelha do tabuleiro.
-* @author Laura número 129778
-* @version 1.0
- */
 package iscteiul.ista.battleship;
 
+/**
+ * Representa uma Fragata no jogo da Batalha Naval (versão da época dos Descobrimentos).
+ * A Fragata é um navio que ocupa 4 quadrículas na grelha do tabuleiro.
+ * @author Laura 129778
+ * @version 1.0
+ */
 public class Frigate extends Ship {
     private static final Integer SIZE = 4;
     private static final String NAME = "Fragata";
@@ -38,7 +38,6 @@ public class Frigate extends Ship {
     }
 
     /*
-     * (non-Javadoc)
      * Obtém o tamanho da Fragata em termos de quadrículas ocupadas.
      * @see battleship.Ship#getSize()
      */
