@@ -1,18 +1,34 @@
-/**
- *
- */
 package iscteiul.ista.battleship;
 
 import java.util.Objects;
 
+/**
+ * Representa uma posição concreta (coordenadas de linha e coluna) na grelha do jogo
+ */
 public class Position implements IPosition {
+
+    /**
+     * Índice da linha
+     */
     private int row;
+
+    /**
+     * Índice da coluna 
+     */
     private int column;
+
+    /**
+     * Indica se esta posição se encontra ocupada 
+     */
     private boolean isOccupied;
+
+    /**
+     * Indica se esta posição já levou um tiro
+     */
     private boolean isHit;
 
     /**
-     *
+     * Constrói uma nova posição na grelha com as coordenadas indicadas.
      */
     public Position(int row, int column) {
         this.row = row;
@@ -21,36 +37,34 @@ public class Position implements IPosition {
         this.isHit = false;
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#getRow()
+    /**
+     * {@inheritDoc}
      */
     @Override
     public int getRow() {
         return row;
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#getColumn()
+    /**
+     * {@inheritDoc}
      */
     @Override
     public int getColumn() {
         return column;
     }
 
-
+    /**
+     * Calcula o código de hash para esta posição com base nas coordenadas e estados atuais
+     *
+     */
     @Override
     public int hashCode() {
         return Objects.hash(column, isHit, isOccupied, row);
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#equals(java.lang.Object)
+    /**
+     * Compara esta posição com outro objeto para determinar se coincidem.
+     * Duas posições são consideradas iguais se partilharem o mesmo número de linha e coluna
      */
     @Override
     public boolean equals(Object otherPosition) {
@@ -64,59 +78,51 @@ public class Position implements IPosition {
         }
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#isAdjacentTo(battleship.IPosition)
+    /**
+     * Verifica se esta posição é adjacente a outra posição na grelha (incluindo diagonais)
      */
     @Override
     public boolean isAdjacentTo(IPosition other) {
         return (Math.abs(this.getRow() - other.getRow()) <= 1 && Math.abs(this.getColumn() - other.getColumn()) <= 1);
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#occupy()
+    /**
+     * {@inheritDoc}
      */
     @Override
     public void occupy() {
         isOccupied = true;
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#shoot()
+    /**
+     * {@inheritDoc}
      */
     @Override
     public void shoot() {
         isHit = true;
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#isOccupied()
+    /**
+     * {@inheritDoc}
      */
     @Override
     public boolean isOccupied() {
         return isOccupied;
     }
 
-    /*
-     * (non-Javadoc)
-     *
-     * @see battleship.IPosition#isHit()
+    /**
+     * {@inheritDoc}
      */
     @Override
     public boolean isHit() {
         return isHit;
     }
 
+    /**
+     * Devolve uma representação em formato legível de texto das coordenadas da posição.
+     */
     @Override
     public String toString() {
         return ("Linha = " + row + " Coluna = " + column);
     }
-
 }
