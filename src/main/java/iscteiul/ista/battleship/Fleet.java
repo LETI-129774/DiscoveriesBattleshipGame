@@ -1,15 +1,16 @@
-/**
- * Representa uma frota de navios no jogo Battleship.
- */
 package iscteiul.ista.battleship;
 
 import java.util.ArrayList;
 import java.util.List;
-
 /**
+ * Representa uma frota de navios no jogo Battleship.
  * Uma frota contém um conjunto de navios e disponibiliza operações
  * para adicionar, consultar e listar navios de acordo com diferentes critérios.
+ *
+ * @author Natália 129773
+ * @version 1.0
  */
+
 public class Fleet implements IFleet {
     /**
      * This operation prints all the given ships
