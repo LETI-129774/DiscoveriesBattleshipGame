@@ -53,10 +53,6 @@ public class Carrack extends Ship {
      * Obtém o tamanho da nau.
      *
      * @return tamanho fixo da nau (3)
-     *
-     * (non-Javadoc)
-     *
-     * @see battleship.Ship#getSize()
      */
     @Override
     public Integer getSize() {
