@@ -58,10 +58,6 @@ public class Caravel extends Ship {
      * Obtém o tamanho da caravela.
      *
      * @return tamanho fixo  da caravela (2)
-     *
-     * (non-Javadoc)
-     *
-     * @see battleship.Ship#getSize()
      */
     @Override
     public Integer getSize() {
