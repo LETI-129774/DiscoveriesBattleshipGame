@@ -70,13 +70,18 @@ Depois dos navios terem sido posicionados:
 
 ## Rerpostas às questões
 ------
-E.3. Enquanto Product Owner, defino o Product Backlog inicial com as seguintes user stories:   
+E.3.- Enquanto Product Owner, defino o Product Backlog inicial com as seguintes user stories:   
 -Como jogador, quero poder posicionar a minha frota na grelha para preparar o início do jogo.   
 -Como jogador, quero poder disparar sobre as coordenadas do tabuleiro do adversário para tentar afundar os seus navios.   
 -Como jogador, quero visualizar o meu tabuleiro e o estado atualizado do tabuleiro do oponente para planear a minha estratégia.   
 -Como jogador, quero que as minhas jogadas fiquem registadas numa base de dados (formato JSON) para manter o histórico da partida.   
 
 
-E.6 Para escolher uma user story para mim própria na aba dos issues do GitHub escolho o issue/user story que quero fazer clico nela e escolho a opção de "assing" e escolho me a mim
+E.6.- Para escolher uma user story para mim própria na aba dos issues do GitHub escolho o issue/user story que quero fazer clico nela e escolho a opção de "assing" e escolho me a mim
 Para mostrar que essa user story ja foi implementada abrimos o issue e clicamos onde diz "close as completed"
 Para mostrar que Product owner desistiu dessa user story abrimos esse issue e clicamos na seta ao lado de onde diz "close as completed" para abrir outras opções e escolhemos a que diz "close as not planned"
+
+
+C.1.- A principal diferença é que a plataforma Web serve para gerir o projeto, enquanto o IDE serve para escrever e testar código.   
+Trabalhar via Web (GitHub) é preferível para organizar o Scrum (criar issues), rever Pull Requests, analisar a atividade do repositório (Insights) e fazer pequenas edições textuais, como alterar o ficheiro README.md.   
+Trabalhar via IDE (IntelliJ) é a melhor escolha para programar as classes Java, gerar automaticamente a documentação Javadoc e executar tarefas técnicas do Git, como fazer commits ou resolver conflitos de merge de forma visual.   
