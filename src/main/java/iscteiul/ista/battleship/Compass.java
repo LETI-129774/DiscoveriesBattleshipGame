@@ -1,21 +1,20 @@
+package iscteiul.ista.battleship;
 /**
  * Representa os pontos cardeais utilizados no jogo para indicar direções.
- */
-package iscteiul.ista.battleship;
-
-/**
  * Cada direção está associada a um carácter que a identifica.
  *
  * <ul>
- * <li>'n' - Norte</li>
- * <li>'s' - Sul</li>
- * <li>'e' - Este</li>
- * <li>'o' - Oeste</li>
- * <li>'u' - Desconhecida</li>
+ *   <li>'n' - Norte</li>
+ *   <li>'s' - Sul</li>
+ *   <li>'e' - Este</li>
+ *   <li>'o' - Oeste</li>
+ *   <li>'u' - Desconhecida</li>
  * </ul>
  *
- * @author fba
+ * @author Natália 129773
+ * @version 1.0
  */
+
 public enum Compass {
 
     /** Direção Norte. */
