@@ -1,3 +1,4 @@
+package iscteiul.ista.battleship;
 /**
  * Representa uma embarcação do tipo Carrack (Nau), com tamanho fixo 3.
  *
@@ -6,8 +7,10 @@
  * {@link Compass bearing} fornecido.
  *
  * A posição inicial corresponde ao canto superior esquerdo da embarcação.
+ *
+ * @author Natália 129773
+ * @version 1.0
  */
-package iscteiul.ista.battleship;
 
 public class Carrack extends Ship {
 

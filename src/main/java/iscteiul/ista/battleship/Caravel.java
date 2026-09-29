@@ -1,3 +1,4 @@
+package iscteiul.ista.battleship;
 /**
  * Representa uma embarcação do tipo Caravel (Caravela), com tamanho fixo de 2.
  *
@@ -5,8 +6,10 @@
  * (NORTH/SOUTH) ou na horizontal (EAST/WEST), dependendo do seu {@link Compass bearing}.
  *
  * A posição inicial fornecida corresponde ao canto superior esquerdo da embarcação.
+ *
+ * @author Natália 129773
+ * @version 1.0
  */
-package iscteiul.ista.battleship;
 
 public class Caravel extends Ship {
 
