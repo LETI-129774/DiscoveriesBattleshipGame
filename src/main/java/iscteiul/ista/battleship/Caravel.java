@@ -1,14 +1,13 @@
 package iscteiul.ista.battleship;
 /**
  * Representa uma embarcação do tipo Caravel (Caravela), com tamanho fixo de 2.
- *
  * A Caravel ocupa duas células no tabuleiro, sendo posicionada na vertical
  * (NORTH/SOUTH) ou na horizontal (EAST/WEST), dependendo do seu {@link Compass bearing}.
- *
  * A posição inicial fornecida corresponde ao canto superior esquerdo da embarcação.
  *
  * @author Natália 129773
  * @version 1.0
+ *
  */
 
 public class Caravel extends Ship {
@@ -21,8 +20,8 @@ public class Caravel extends Ship {
 
     /**
      * Cria uma nova Caravel com o bearing e posição especificados.
-     *
      * A orientação determina como as duas posições da embarcação são calculadas:
+     *
      * <ul>
      *   <li><b>NORTH/SOUTH</b>: ocupa duas células verticalmente.</li>
      *   <li><b>EAST/WEST</b>: ocupa duas células horizontalmente.</li>

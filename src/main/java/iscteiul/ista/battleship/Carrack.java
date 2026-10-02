@@ -1,15 +1,14 @@
 package iscteiul.ista.battleship;
 /**
  * Representa uma embarcação do tipo Carrack (Nau), com tamanho fixo 3.
- *
  * A Carrack ocupa três células consecutivas no tabuleiro, sendo posicionada
  * verticalmente (NORTH/SOUTH) ou horizontalmente (EAST/WEST), conforme o
  * {@link Compass bearing} fornecido.
- *
  * A posição inicial corresponde ao canto superior esquerdo da embarcação.
  *
  * @author Natália 129773
  * @version 1.0
+ *
  */
 
 public class Carrack extends Ship {
@@ -22,8 +21,8 @@ public class Carrack extends Ship {
 
     /**
      * Cria uma nova Carrack com o bearing e posição especificados.
-     *
      * Dependendo da orientação, a nau é posicionada da seguinte forma:
+     *
      * <ul>
      *   <li><b>NORTH/SOUTH</b>: ocupa três células verticalmente.</li>
      *   <li><b>EAST/WEST</b>: ocupa três células horizontalmente.</li>
